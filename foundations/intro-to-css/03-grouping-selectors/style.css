@@ -1,0 +1,14 @@
+.yesb,
+.nob {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.yesb {
+    background-color: black;
+    color: white;
+}
+
+.nob {
+    background-color: yellow;
+}
